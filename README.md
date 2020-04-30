@@ -4,7 +4,6 @@
 一件扫描当前页面下所有video标签，自动生成修改video标签的javascript代码
 如图
 
-![1.png](https://i.loli.net/2020/03/05/bPC3R6JNTmsteDH.png)
 playbackRate是倍速
 currentTime是视频当前的时间（秒）
 在浏览器控制台输入下列代码即可
