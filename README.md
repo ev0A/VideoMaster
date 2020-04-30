@@ -56,4 +56,6 @@ function getAllIframe(document,documentStr){
 
 ```
 ![image.png](https://i.loli.net/2020/04/30/aD3CUVlehw2X1IL.png)
+---
+
 三条代码分别是永不暂停，修改倍速，修改进度条（上帝之手）
